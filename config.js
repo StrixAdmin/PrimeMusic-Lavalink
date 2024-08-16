@@ -44,7 +44,7 @@ module.exports = {
         host: "lava-v3.ajieblogs.eu.org",
         port: 80,
         password: "https://dsc.gg/ajidevserver",
-        reconnectTimeout: 6000,
+        reconnectTimeout: 20000,
         reconnectTries: Infinity,
         secure: false
     },
